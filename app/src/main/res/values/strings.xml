@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Wow Weather</string>
+    <string name="celcius">\u2103</string>
+    <string name="speed_unit">Km/h</string>
+    <string name="night_sky_url">https://unsplash.com/photos/sbcIAn4Mn14</string>
+    <string name="day_sky_url">https://unsplash.com/photos/QGSD-bfJHIw</string>
+    <string name="api_url">http://api.weatherapi.com/v1/forecast.json?key=dda841368b444809b3510302210410&amp;q=%1$s&amp;days=1&amp;aqi=no&amp;alerts=no</string>
+</resources>
